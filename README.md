@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://yomidev.github.io/404-not-found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/yomidev/404-not-found">
       Solution
     </a>
     <span> | </span>
@@ -34,22 +34,25 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/yomidev/404-not-found/blob/main/screenshots/screen1.jpg)
+ - Desktop view
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+ ![screenshot](https://github.com/yomidev/404-not-found/blob/main/screenshots/screen2.jpg)
+ - Tablet view
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+ ![screenshot](https://github.com/yomidev/404-not-found/blob/main/screenshots/screen3.jpg)
+ -Mobile view
+
+ Doing this project helped me to improve a little when thinking about how to layout a website; however, I still need to improve in that aspect and also to use the mobile first model.
+
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML 5](https://developer.mozilla.org/es/docs/Glossary/HTML5)
+- [CSS](https://www.w3schools.com/css/)
+
 
 ## Features
 
@@ -63,11 +66,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@your-username](https://github.com/yomidev)
+- Instagram [@your-instagram](https://www.instagram.com/devinfront/)
