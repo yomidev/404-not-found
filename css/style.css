@@ -103,12 +103,12 @@ footer{
     figure{
         width: 400px;
     }
-    section{
+    /*section{
         flex-direction: column;
         padding: 0 55px;
-    }
+    }*/
     .text > h1{
-        font-size: 60px;
+        font-size: 40px;
     }
     .credits{
         padding-top: 150px;
@@ -119,6 +119,7 @@ footer{
         width: 286px;
     }
     section{
+        flex-direction: column;
         padding: 0 0 0 20px;
         height: 90vh;
     }
