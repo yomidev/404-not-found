@@ -35,13 +35,13 @@
 ## Overview
 
 ![screenshot](https://github.com/yomidev/404-not-found/blob/main/screenshots/screen1.jpg)
- - Desktop view
+ - Mobile view
 
  ![screenshot](https://github.com/yomidev/404-not-found/blob/main/screenshots/screen2.jpg)
  - Tablet view
 
  ![screenshot](https://github.com/yomidev/404-not-found/blob/main/screenshots/screen3.jpg)
- -Mobile view
+ - Desktop view
 
  Doing this project helped me to improve a little when thinking about how to layout a website; however, I still need to improve in that aspect and also to use the mobile first model.
 
