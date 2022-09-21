@@ -16,6 +16,10 @@
     --color-credrits:#bdbdbd;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 .subtitle{
     font-family: var(--font_header);
     font-weight: 700;
