@@ -70,5 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/yomidev)
-- Instagram [@your-instagram](https://www.instagram.com/devinfront/)
+- GitHub [@yomidev](https://github.com/yomidev)
